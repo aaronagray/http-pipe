@@ -17,4 +17,4 @@ echo "yo" | http-pipe -m GET mywebsite.com/endpoint
 
 Might already exist, but here it is anyway!
 
-Inspired by [@aarongray](http://twitter.com/aarongray)
+Inspired by [@aaronagray](http://twitter.com/aaronagray)
