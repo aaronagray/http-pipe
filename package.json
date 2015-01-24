@@ -1,0 +1,23 @@
+{
+  "name": "http-pipe",
+  "version": "1.0.0",
+  "description": "Pipe stdin to an arbitrary HTTP endpoint",
+  "main": "index.js",
+  "bin": {
+    "http-pipe": "index.js"
+  },
+  "keywords": [
+    "tap",
+    "tape",
+    "http",
+    "rest",
+    "pipe",
+    "stream"
+  ],
+  "author": "Talon Poole",
+  "license": "MIT",
+  "dependencies": {
+    "hyperquest": "^1.0.1",
+    "minimist": "^1.1.0"
+  }
+}
